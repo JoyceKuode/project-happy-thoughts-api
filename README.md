@@ -14,6 +14,6 @@ If I had more time, I would try stretch goals like adding categories to differen
 
 ## View it live
 
-(https://project-happy-thoughts-api-ph1w.onrender.com/)
+https://project-happy-thoughts-api-ph1w.onrender.com/
 
 https://happy-thoughts-joyce.netlify.app/
