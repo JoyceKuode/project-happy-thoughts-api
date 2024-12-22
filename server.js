@@ -96,7 +96,7 @@ app.patch("/thoughts/:thoughtId/like", async (req, res) => {
     res.status(400).json({
       success: false,
       response: error.message,
-      message: "Failed to like the thought",
+      message: "Failed to like thought",
     });
   }
 });
